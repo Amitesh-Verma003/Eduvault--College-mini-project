@@ -1,2 +1,5 @@
 # Eduvault--College-mini-project
-# this is the new changes
+# This is the mini project for the third sem 
+# Team members - Amitesh verma, Aniket bajaj, Aniket Kumar
+
+
